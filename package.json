@@ -1,0 +1,25 @@
+{
+  "name": "marguinfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmarguin/MarguinFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjmarguin/MarguinFinal/issues"
+  },
+  "homepage": "https://github.com/cjmarguin/MarguinFinal#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
