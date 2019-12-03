@@ -25,8 +25,6 @@ function fetchInfo(yee){
         header = data.head;
         image = data.img;
         description = data.desc;
-
-        
     
     });
 
